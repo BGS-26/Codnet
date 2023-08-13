@@ -1,6 +1,6 @@
 # Randomizer
 
-The Randomizer creates unique strings of different characters,that is to suggest it is a generator.
+The Randomizer creates unique strings of different characters, a generator.
 
 ### How?
 Length of the characters can be controlled through setting a number and it generates the characters that suits your desired length parameter that you have entered.
